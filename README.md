@@ -80,7 +80,6 @@ JWT_EXPIRATION=1d
   - **Access**: Requires professor authentication (`profToken`).
  
 
----
 
 ## Automated Testing with Jest
 
